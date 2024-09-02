@@ -12,7 +12,7 @@ I'm a software engineering student with a passion for creating dynamic web appli
 ## 🛠️ Projects & Contributions
 
 - [Electric Field Visualization](https://github.com/Lina674/Visualization-of-the-Electric-Field-in-Various-Sphere-Configurations-in-2D-and-in-3D): A tool that displays 2D and 3D graphs of the electric field in spherical configurations.
-- [Iqra']([https://github.com/yourusername/reactchatapp](https://chromewebstore.google.com/detail/iqra-quran-tab-saver/pdegifediocllkkbggklcahhedkpfnel): A Chrome extension that acts as a tab saver and displays a Qu'ran verse.
+- [Iqra'](https://chromewebstore.google.com/detail/iqra-quran-tab-saver/pdegifediocllkkbggklcahhedkpfnel): A Chrome extension that acts as a tab saver and displays a Qu'ran verse.
 - Contributed to [Obsidian.md](https://github.com/Lina674/obsidian-releases) by developing a theme (Pxld).
 
 ## 🤝 Let's Connect
