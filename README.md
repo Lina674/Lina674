@@ -5,20 +5,15 @@ I'm a software engineering student with a passion for creating dynamic web appli
 ## 🚀 What I Do
 
 - 🔭 I’m currently working on a GAN Zelda dungeon generator.
-- 🌱 I recently released a Chrome extension that acts as a tab saver (https://shorturl.at/1dEcS).
+- 🌱 I recently released a [Chrome extension](https://shorturl.at/1dEcS) that acts as a tab saver.
 - 💡 I'm interested in front-end development, cybersecurity, and machine learning.
 - 💬 Ask me about programming, mathematics, or how to harmonize an outfit!
 
 ## 🛠️ Projects & Contributions
 
-- [AwesomeProject](https://github.com/yourusername/awesomeproject): A tool to help developers manage their tasks efficiently.
-- [ReactChatApp](https://github.com/yourusername/reactchatapp): A real-time chat application built with React and Firebase.
-- Contributed to [Open Source Project](https://github.com/open-source-project) by improving documentation and fixing bugs.
-
-## 🛠️ Skills & Tools
-
-- **Languages**: C#, Python, JavaScript, HTML/CSS, Lua/Vim
-- **Tools**: Git, VS Code, Neovim, Chrome Dev Tools
+- [Electric Field Visualization](https://github.com/Lina674/Visualization-of-the-Electric-Field-in-Various-Sphere-Configurations-in-2D-and-in-3D): A tool that displays 2D and 3D graphs of the electric field in spherical configurations.
+- [Iqra']([https://github.com/yourusername/reactchatapp](https://chromewebstore.google.com/detail/iqra-quran-tab-saver/pdegifediocllkkbggklcahhedkpfnel): A Chrome extension that acts as a tab saver and displays a Qu'ran verse.
+- Contributed to [Obsidian.md](https://github.com/Lina674/obsidian-releases) by developing a theme (Pxld).
 
 ## 🤝 Let's Connect
 
@@ -29,7 +24,7 @@ I'm open to collaborating on exciting projects. Let’s build something amazing 
 
 ## 🌱 A Little More About Me
 
-- 📚 I love reading about technology and innovation.
+- 📚 I love reading historical books.
 - 🏆 I recently started rockclimbing (top rope) and bouldering.
 - 🎮 I enjoy playing video games in my free time!
 
