@@ -25,7 +25,7 @@ I'm open to collaborating on exciting projects. Let’s build something amazing 
 ## 🌱 A Little More About Me
 
 - 📚 I love reading historical books.
-- 🏆 I recently started rockclimbing (top rope) and bouldering.
+- 🏆 I recently started bouldering.
 - 🎮 I enjoy playing video games in my free time!
 
 ## ✨ Thank You!
