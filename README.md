@@ -12,7 +12,7 @@ I'm Lina, a software engineering student with a passion for creating dynamic web
 ## 🛠️ Projects & Contributions
 
 - [Electric Field Visualization](https://github.com/Lina674/Visualization-of-the-Electric-Field-in-Various-Sphere-Configurations-in-2D-and-in-3D): A tool that displays 2D and 3D graphs of the electric field in spherical configurations.
-- [Game of Life Tab Saver]([https://chromewebstore.google.com/detail/iqra-quran-tab-saver/pdegifediocllkkbggklcahhedkpfnel](https://chromewebstore.google.com/detail/the-game-of-life-tab-save/bngcjaonpdkohcbbdgbpbdlbommeedpo)): A Chrome extension that acts as a tab saver and displays patterns following the Game of Life.
+- [The Game of Life Tab Saver](https://chromewebstore.google.com/detail/the-game-of-life-tab-save/bngcjaonpdkohcbbdgbpbdlbommeedpo): A Chrome extension that acts as a tab saver and displays patterns following the Game of Life.
 - Contributed to [Obsidian.md](https://github.com/Lina674/obsidian-releases) by developing a theme (Pxld; +1000 downloads).
 
 ## 🌱 A Little More About Me
